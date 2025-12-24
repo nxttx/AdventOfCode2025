@@ -1,8 +1,9 @@
 <Solution>
   <Folder Name="/day 1/">
-    <Project Path="day1/dayOne/dayOne.csproj" />
+    <Project Path="day 1/dayOne/dayOne.csproj" />
   </Folder>
   <Folder Name="/day 2/">
     <Project Path="day 2/dayTwo/dayTwo.csproj" />
   </Folder>
+  <Folder Name="/day 3/" />
 </Solution>

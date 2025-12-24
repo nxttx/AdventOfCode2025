@@ -40,7 +40,6 @@ class Solution2
             var distinct = partials.Distinct();
             if (distinct.Count() != 1) continue;
             return item;
-            break;
         }
 
         return 0;
